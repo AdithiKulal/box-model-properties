@@ -1,0 +1,14 @@
+.example1 {
+    width: 220px;
+    background-color: deeppink;
+    padding: 0px;
+    margin: 0px;
+    border: 0px
+}
+.example2 {
+    width: 200px;
+    background-color: mediumseagreen;
+    border: 5px dotted black;
+    margin: 40px 20px;
+    padding: 50px;
+}
